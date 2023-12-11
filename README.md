@@ -1,4 +1,4 @@
-### Olá, eu sou a Bruna Matias
+### Olá, eu sou a Bruna Matias!
 ##
 
 - 📖 Cursando Engenharia da computação UFSCar
