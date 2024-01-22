@@ -2,7 +2,7 @@
 ##
 
 - 📖 Cursando Engenharia da computação na UFSCar
-- 🌱 Estudando Python e SQL
+- 🌱 Aprendendo Python 
 - 💬 Contate-me no e-mail: bruna.matias.lima@hotmail.com
 - 😄 Pronomes: ela/dela
 
