@@ -1,7 +1,7 @@
 ### Olá, eu sou a Bruna Matias!
 ##
 
-- 📖 Cursando Engenharia da computação na UFSCar
+- 📖 Cursando Ciência da computação na UFSCar
 - 🌱 Aprendendo Ciência de dados
 - 💬 Contate-me no e-mail: bruna.matias.lima@hotmail.com
 - 😄 Pronomes: ela/dela
