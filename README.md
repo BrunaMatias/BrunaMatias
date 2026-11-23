@@ -52,10 +52,6 @@ Construo modelos de Machine Learning e pipelines de dados que viram ferramenta d
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaMatias&layout=compact&theme=midnight-purple&hide_border=true" alt="Linguagens mais usadas" />
 </p>
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=BrunaMatias&theme=midnight-purple&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
-</p>
-
 ## Outros repositórios
 
 - [ufscar-projetos-academicos](https://github.com/BrunaMatias/ufscar-projetos-academicos): projetos das disciplinas da graduação, de estruturas de dados a aprendizado de máquina.
